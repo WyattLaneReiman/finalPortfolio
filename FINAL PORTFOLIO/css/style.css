@@ -1,0 +1,165 @@
+body {
+    background-image: url("../css/photos/dark-wall-background_1390-191.jpg"); 
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; 
+    
+}
+
+.nav-wrapper {
+    background-color: teal;
+}
+
+#image1 {
+    margin-top: 25px;
+}
+
+.image1 {
+  border-radius: 25px; 
+  width: 200px;
+  height: 150px; 
+  border: solid white 2px;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+.top{
+    margin-top: 25px;
+}
+.aboutMe {
+    margin-top: 25px;
+    font-size: 22px;
+}
+.btnImage {
+    background-image: url(../css/photos/screenshot.png)!important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    border-radius: 25px;
+    background-position: center;
+    border: solid teal 2px;
+}
+.btnImage2 {
+    background-image: url(../css/photos/screenshot2.png)!important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    border-radius: 25px;
+    background-position: center;
+}
+
+.btnImage3 {
+    background-image: url(../css/photos/screenshot3.png)!important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    border-radius: 25px;
+    background-position: center;
+}
+
+.btnImage4 {
+    background-image: url(../css/photos/screenshot4.png)!important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    border-radius: 25px;
+    background-position: center;
+}
+
+.btnImage5 {
+    background-image: url(../css/photos/screenshot5.png)!important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    border-radius: 25px;
+    background-position: center;
+}
+
+.btnImage6 {
+    background-image: url(../css/photos/screenshot6.png)!important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    border-radius: 25px;
+    background-position: center;
+}
+
+.btnImage7 {
+    background-image: url(../css/photos/screenshot7.png)!important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 150px;
+    width: 200px;
+    border-radius: 25px;
+    background-position: center;
+}
+
+
+
+.card {
+    border-radius: 25px;
+    text-align: center;
+}
+
+.gitHubBTN{
+    border-radius: 25px;
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.container {
+    background-color: teal;
+    opacity: .85;
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 25px;
+    font-size: 15px;
+}
+
+.container1 {
+    background-color: teal;
+    opacity: .85;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 25px;
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.dog {
+    border-radius: 25px!important;
+}
+
+.github {
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+}
